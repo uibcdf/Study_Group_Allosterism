@@ -1,2 +1,2 @@
-# Study_Group_Allosterism
+# Study Group
 Allosterism Study Group
